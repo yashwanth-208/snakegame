@@ -15,7 +15,7 @@ A simple **Snake Game** built using **Python and Pygame**. The snake moves aroun
 ## 🚀 How to Run
 1. Clone the repository:
    ```sh
-   git clone https://github.com/YOUR_GITHUB_USERNAME/snake-game.git
+   git clone https://github.com/yashwanth-208/snakegame
    cd snake-game
 Install dependencies:
 sh
